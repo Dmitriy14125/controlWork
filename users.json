@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Денис",
+    "birthday": "2001.12.12",
+    "email": "outlook@gmail.com"
+  },
+  {
+    "name": "Иван",
+    "birthday": "1978.12.12",
+    "email": "outlook@gmail.com"
+  },{
+  "name": "Артем",
+  "birthday": "1999.11.11",
+  "email": "outlook@gmail.com"
+},{
+  "name": "Данат",
+  "birthday": "2006.10.10",
+  "email": "outlook@gmail.com"
+},{
+  "name": "Элоиза",
+  "birthday": "2000.11.11",
+  "email": "outlook@gmail.com"
+},{
+  "name": "Тимур",
+  "birthday": "1954.11.11",
+  "email": "outlook@gmail.com"
+}
+]

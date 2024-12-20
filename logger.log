@@ -1,0 +1,30 @@
+дек. 20, 2024 8:49:01 AM org.example.Main getPersons
+INFO: Файл успешно прочитан
+дек. 20, 2024 8:49:01 AM org.example.Main GrouppingByAge
+INFO: Тимур outlook@gmail.com
+дек. 20, 2024 8:49:01 AM org.example.Main GrouppingByAge
+INFO: Денис outlook@gmail.com
+дек. 20, 2024 8:49:01 AM org.example.Main GrouppingByAge
+INFO: Иван outlook@gmail.com
+дек. 20, 2024 8:49:01 AM org.example.Main GrouppingByAge
+INFO: Артем outlook@gmail.com
+дек. 20, 2024 8:49:01 AM org.example.Main GrouppingByAge
+INFO: Элоиза outlook@gmail.com
+дек. 20, 2024 8:49:01 AM org.example.Main GrouppingByAge
+INFO: Данат outlook@gmail.com
+дек. 20, 2024 8:50:10 AM org.example.Main getPersons
+WARNING: Invalid name
+дек. 20, 2024 8:53:11 AM org.example.Main getPersons
+WARNING: Invalid name
+дек. 20, 2024 8:58:08 AM org.example.Main getPersons
+WARNING: Invalid name
+дек. 20, 2024 8:58:58 AM org.example.Main getPersons
+WARNING: Invalid name
+дек. 20, 2024 8:59:18 AM org.example.Main getPersons
+WARNING: Invalid name
+дек. 20, 2024 8:59:35 AM org.example.Main getPersons
+WARNING: Invalid name
+дек. 20, 2024 9:00:45 AM org.example.Main getPersons
+WARNING: Invalid name
+дек. 20, 2024 9:03:46 AM org.example.Main getPersons
+WARNING: Invalid name
